@@ -6,7 +6,7 @@ public class TestMe {
 		// TODO Auto-generated method stub
 		
 		for(int i=0;i<=9;i++){
-			System.out.println("---------Hello World---------");
+			System.out.println("---------Hello World from COE---------");
 		}
 
 	}
